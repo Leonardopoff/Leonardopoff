@@ -23,7 +23,7 @@
 </div>
 
 
-![snake gif](https://github.com/Leonardopoff/Leonardopoff/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Leonardopoff/Leonardopoff/blob/main/github-contribution-grid-snake.svg)
 <!--
 **Leonardopoff/Leonardopoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
